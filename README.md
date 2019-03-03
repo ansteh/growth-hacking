@@ -10,3 +10,7 @@ Growth hacking resources
 
 * [hashtagify.me - Boost your success through hashtag marketing](https://hashtagify.me)
 * [vidIQ - More Views, Less Time](https://vidiq.com/)
+
+#### Other Awesome Lists 
+
+* [Awesome Growth Hacking](https://github.com/btomashvili/awesome-growth-hacking/blob/master/README.md)
