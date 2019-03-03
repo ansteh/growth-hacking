@@ -10,6 +10,7 @@ Growth hacking resources
 
 * [Canva - Design anything. Publish anywhere.](https://www.canva.com/)
 * [hashtagify.me - Boost your success through hashtag marketing](https://hashtagify.me)
+* [sniply - Add a call-to-action to every link you share](https://snip.ly/)
 * [vidIQ - More Views, Less Time](https://vidiq.com/)
 
 #### Email
@@ -17,12 +18,22 @@ Growth hacking resources
 * [boomeranggmail - Schedule an email to be sent later. Easy email reminders.](https://www.boomeranggmail.com/)
 * [kickbox - Smarter Email Verification for Marketers and Developers](https://kickbox.com/)
 * [MailChimp - Email marketing](https://mailchimp.com/)
+* [Rebump - The best way to get your emails answered.](https://www.rebump.cc/)
 * [Sidekick HubSpot - Email marketing](https://www.hubspot.com/products/sales/email-tracking)
+
+#### Influencer marketing
+
+* [Hey press - find relevant journalists](https://www.hey.press/)
+* [NinjaOutreach - influencer research and outreach](https://ninjaoutreach.com/)
+* [onalytica - infuencer marketing](https://www.onalytica.com/)
 
 #### Social Media Management Platforms
 
+* [audiense - Identify relevant audiences, find people to connect with](https://audiense.com/)
 * [buffer - Save time managing social media for your business](https://buffer.com/)
-* [Hootsuite - Manage all your social media in one place](https://hootsuite.com/)
+* [BuzzSumo - Analyze what content performs best for any topic or competitor](https://buzzsumo.com/)
+* [Hootsuite - Autoschedule and suggestions for content](https://hootsuite.com/)
+* [MeetEdgar - Edgar automatically writes status updates for you from articles or blogs](https://meetedgar.com/)
 * [Spredfast - The Platform for Enterprise Social](https://www.spredfast.com/)
 * [sprinklr - Listen to 3 Billion consumers across 350 Million sources](https://www.sprinklr.com/)
 * [Sprout Social - help you find, form and deepen real connections with the people](https://sproutsocial.com/)
