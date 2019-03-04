@@ -16,6 +16,11 @@ Growth hacking resources
 
 * [Marketing Ideas from Intercom's Growth Strategy](https://okdork.com/marketing-ideas-from-intercom/)
 
+
+#### Content Writing 
+
+* [How do you decide what to write?](https://www.intercom.com/blog/qa-how-do-you-decide-what-to-write/)
+
 #### Growth Hack Hubs
 
 * [GrowthHackers - Growth studies](https://growthhackers.com/growth-studies)
