@@ -12,6 +12,7 @@ Growth hacking resources
 
 * [Canva - Design anything. Publish anywhere.](https://www.canva.com/)
 * [hashtagify.me - Boost your success through hashtag marketing](https://hashtagify.me)
+* [Keyword Tool - Find Great Keywords Using Autocomplete](https://keywordtool.io/)
 * [sniply - Add a call-to-action to every link you share](https://snip.ly/)
 * [vidIQ - More Views, Less Time](https://vidiq.com/)
 * [WordStream: benchmark your performance and see where you need to improve](https://www.wordstream.com/)
