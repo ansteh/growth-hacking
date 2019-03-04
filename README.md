@@ -12,6 +12,12 @@ Growth hacking resources
 * [Ryan Holiday](https://ryanholiday.net/)
 * [Startup Marketing Blog - By Sean Ellis](http://www.startup-marketing.com/)
 
+#### Growth Hack Hubs
+
+* [GrowthHackers - Growth studies](https://growthhackers.com/growth-studies)
+* [Ladder.io - Playbook](https://ladder.io/playbook)
+* [GrowHack - Blog](http://www.growhack.com/blog)
+
 #### Videos 
 
 * [Andrew Chen - What's Next in Growth?](https://www.youtube.com/watch?v=7Uhu2PEJ2Yk)
