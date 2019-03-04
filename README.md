@@ -14,6 +14,7 @@ Growth hacking resources
 * [hashtagify.me - Boost your success through hashtag marketing](https://hashtagify.me)
 * [sniply - Add a call-to-action to every link you share](https://snip.ly/)
 * [vidIQ - More Views, Less Time](https://vidiq.com/)
+* [WordStream: benchmark your performance and see where you need to improve](https://www.wordstream.com/)
 
 #### Email
 
