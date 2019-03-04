@@ -1,6 +1,17 @@
 # growth-hacking
 Growth hacking resources
 
+#### Blogs and Personalities 
+
+* [Andrew Chen's essays](https://andrewchen.co/)
+* [Essays - Paul Graham](http://www.paulgraham.com/articles.html)
+* [GrowthHackers - By Sean Ellis](https://growthhackers.com/)
+* [Josh Elman](https://twitter.com/joshelman)
+* [OkDork by Noah Kagan](https://okdork.com/)
+* [Patrick Vlaskovits](http://vlaskovits.com/blog/)
+* [Ryan Holiday](https://ryanholiday.net/)
+* [Startup Marketing Blog - By Sean Ellis](http://www.startup-marketing.com/)
+
 #### Videos 
 
 * [Andrew Chen - What's Next in Growth?](https://www.youtube.com/watch?v=7Uhu2PEJ2Yk)
