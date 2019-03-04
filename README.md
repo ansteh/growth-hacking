@@ -12,6 +12,10 @@ Growth hacking resources
 * [Ryan Holiday](https://ryanholiday.net/)
 * [Startup Marketing Blog - By Sean Ellis](http://www.startup-marketing.com/)
 
+#### Case Studies 
+
+* [Marketing Ideas from Intercom's Growth Strategy](https://okdork.com/marketing-ideas-from-intercom/)
+
 #### Growth Hack Hubs
 
 * [GrowthHackers - Growth studies](https://growthhackers.com/growth-studies)
