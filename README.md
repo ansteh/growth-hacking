@@ -12,6 +12,12 @@ Growth hacking resources
 * [Ryan Holiday](https://ryanholiday.net/)
 * [Startup Marketing Blog - By Sean Ellis](http://www.startup-marketing.com/)
 
+#### Books 
+
+* [Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising](https://www.amazon.com/Growth-Hacker-Marketing-Primer-Advertising-ebook/dp/B00INIXL3O)
+* [Traction: How Any Startup Can Achieve Explosive Customer Growth](https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer-ebook/dp/B00TY3ZOMS)
+
+
 #### Case Studies 
 
 * [Marketing Ideas from Intercom's Growth Strategy](https://okdork.com/marketing-ideas-from-intercom/)
